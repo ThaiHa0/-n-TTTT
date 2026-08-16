@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511613178465",
+    "project_id": "docspro-424a2",
+    "storage_bucket": "docspro-424a2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511613178465:android:48d7ac6c54de9f07931020",
+        "android_client_info": {
+          "package_name": "com.example.docspro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5FHvtQfCbiM7K9QQoyIPHYHEnnZcaXMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
